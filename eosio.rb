@@ -17,7 +17,7 @@ class Eosio < Formula
   
    bottle do
       root_url "https://github.com/eosio/eos/releases/download/v1.6.1"
-      sha256 "9ee3e4caf021667204cb773740cfd4223790349f79a6d6bc5b3a43695f9fb7de" => :high_sierra
+      sha256 "9ff3e4caf021667204cb773740cfd4223790349f79a6d6bc5b3a43695f9fb7de" => :high_sierra
       sha256 "69de0649dc60109bfa8462e2c6f124e40e54efcd8a6c13ba38251e812ec0342e" => :mojave
    end
    def install
